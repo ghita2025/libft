@@ -33,7 +33,7 @@ Key objectives:
 
 ## ⚙️ Compilation
 To compile the library:
-```bash
+```bash```
 make        # Compile libft.a
 make clean  # Remove object files
 make fclean # Remove object files and library
@@ -44,3 +44,15 @@ gcc main.c -L. -lft
 
 To use in another project:
 #include "libft.h"
+
+🏫 About 1337 Project
+Libft is the first foundational project in the 1337/42 curriculum.
+It provides essential skills in:
+
+C programming and low-level concepts
+
+Memory management and pointer manipulation
+
+Code structuring and modular design
+
+These skills prepare students for more advanced projects like get_next_line, ft_printf, and cub3d.
