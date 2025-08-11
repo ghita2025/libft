@@ -29,7 +29,6 @@ Key objectives:
 ├── Makefile # Compilation rules
 └── ...
 
-
 ---
 
 ## ⚙️ Compilation
