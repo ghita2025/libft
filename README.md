@@ -1,3 +1,5 @@
+![Libft Banner](assets/libft_banner.png)
+
 # Libft
 
 Libft is a personal C library that reimplements standard C library functions and introduces additional utility functions for memory handling, strings, and linked lists.  
