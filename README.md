@@ -40,7 +40,7 @@ make fclean # Remove object files and library
 make re     # Recompile
 
 Link the library
+gcc main.c -L. -lft
 
 To use in another project:
-
 #include "libft.h"
